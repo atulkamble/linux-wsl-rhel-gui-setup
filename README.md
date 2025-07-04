@@ -1,5 +1,3 @@
-Good question — let’s clarify what’s possible here:
-
 ## 📌 Run **Red Hat Enterprise Linux (RHEL) with UI on WSL (Windows Subsystem for Linux)?**
 
 **Yes — partially**.
