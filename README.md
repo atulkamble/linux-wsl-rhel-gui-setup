@@ -97,3 +97,13 @@ If RHEL is installed on WSL:
 ```bash
 sudo dnf groupinstall "Server with GUI" -y && export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2}'):0 && startxfce4
 ```
+---
+## 👨‍💻 Author
+
+**Atul Kamble**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/atuljkamble)
+- 🐙 [GitHub](https://github.com/atulkamble)
+- 🐦 [X](https://x.com/Atul_Kamble)
+- 📷 [Instagram](https://www.instagram.com/atuljkamble)
+- 🌐 [Website](https://www.atulkamble.in)
