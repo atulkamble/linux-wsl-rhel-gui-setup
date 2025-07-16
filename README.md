@@ -26,6 +26,10 @@ RHEL is officially supported on **WSL 2**, but by default, WSL distributions don
    wsl --import RHEL C:\WSL\RHEL .\rhel-rootfs.tar
    ```
 
+
+   ```
+   wsl --unregister ubuntu
+   ```
 ---
 
 ## 🖥️ Install GUI on RHEL WSL:
